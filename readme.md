@@ -32,3 +32,12 @@ unzip wordnet.zip -d /usr/local/share/nltk_data/corpora
 image_net_path = '/home/zhenfeng/project/swintf/imagenet_1k/imagenet/'
 ```
 修改上述语句到对应的数据集位置即可，之后运行python文件就可以进行subtask的获取
+
+# 直接下载数据集
+
+你可以通过以下链接下载数据集压缩包：  
+
+[下载数据集（vehicle.zip）](https://huggingface.co/datasets/ranksu/imagenet_subtask_vehicle/resolve/main/vehicle.zip?download=true)
+
+
+[下载数据集（bird.zip）](https://huggingface.co/datasets/ranksu/imagenet_subtask_bird/resolve/main/bird.zip?download=true)
